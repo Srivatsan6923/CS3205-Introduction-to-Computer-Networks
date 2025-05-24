@@ -1,0 +1,30 @@
+Angola
+paratus.ao
+Botswana
+weekendpost.co.bw
+Burkina Faso
+onatel.bf
+Cameroon
+camtel.cm
+DR Congo
+vodacom.cd
+Libya
+ltt.ly
+Madagascar
+telma.mg
+Mali
+afribone.com
+Morocco
+orange.ma
+Namibia
+namhost.com
+Rwanda
+ricta.org.rw
+Senegal
+sonatel.sn
+Uganda
+ucc.co.ug
+Zambia
+zamnet.zm
+Zimbabwe
+zol.co.zw
